@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "book": 24,
+  "sourceFile": "Authenticity of Early Buddhist Texts - Bhikkhu Sujato & Bhikkhu Brahmali.docx",
+  "sourceSha256": "2506657775c68acdb1ba8098cd3d8f642fd7780400d7729d95a432706df5e563",
+  "imageOccurrences": 2,
+  "images": [
+    {
+      "id": "img-0001",
+      "chapter": 1,
+      "section": 5,
+      "part": 1,
+      "order": 1,
+      "filename": "figure-01-01.jpg",
+      "mediaType": "image/jpeg",
+      "byteLength": 471347,
+      "sha256": "954aefc7f4206ea144f7ba95c785083fcb233508029a5aa09ceea04deba9ab3e",
+      "width": 1400,
+      "height": 1872,
+      "sourceMedia": "word/media/image1.jpeg",
+      "sourceParagraph": 553,
+      "sourceCaption": "Figure 1.1: The 16 nations and the expansion of Magadha under Ajātasattu (c. 400 Maurya (c. 300",
+      "caption": "ပုံ ၁.၁ — တိုင်းပြည် ၁၆ ပြည်နှင့် အဇာတသတ်လက်ထက် (ခရစ်နှစ်မတိုင်မီ ၄၀၀ ခန့်)၊ မဟာပဒုမနန္ဒလက်ထက် (ခရစ်နှစ်မတိုင်မီ ၃၅၀ ခန့်)၊ စန္ဒဂုတ္တမောရိယလက်ထက် (ခရစ်နှစ်မတိုင်မီ ၃၀၀ ခန့်) တို့တွင် မဂဓနယ်မြေ ချဲ့ထွင်လာပုံ။"
+    },
+    {
+      "id": "img-0002",
+      "chapter": 5,
+      "section": 9,
+      "part": 1,
+      "order": 2,
+      "filename": "figure-05-01.jpg",
+      "mediaType": "image/jpeg",
+      "byteLength": 266803,
+      "sha256": "f6b31a8fc5f02e92928cca4709062d0d1cfa6a219d54fdcf568f670fc64122cd",
+      "width": 998,
+      "height": 1503,
+      "sourceMedia": "word/media/image2.jpeg",
+      "sourceParagraph": 1775,
+      "sourceCaption": "Figure 5.1: Towns and sites associated with the Buddha and the spread of Buddhism.",
+      "caption": "ပုံ ၅.၁ — ဗုဒ္ဓနှင့်လည်းကောင်း၊ ဗုဒ္ဓဘာသာ ပြန့်ပွားမှုနှင့်လည်းကောင်း ဆက်နွှယ်သည့် မြို့များနှင့် နေရာများ။"
+    }
+  ]
+}

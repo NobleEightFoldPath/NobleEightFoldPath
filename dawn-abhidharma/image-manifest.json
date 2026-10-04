@@ -1,0 +1,102 @@
+{
+  "book": 37,
+  "source_pdf_sha256": "bc6d7d5f74da0d04875eb1b9f50de6c303870d007594cc8e9b9866224e27dccb",
+  "images": [
+    {
+      "figure": "1.1",
+      "file": "book37/page-021-image-01.jpg",
+      "pdf_page": 21,
+      "width": 324,
+      "height": 197,
+      "sha256": "034055b3ee8a5230b21a589fb72a2da3a603d8ea0d1778ac131f7c47dbd56e53"
+    },
+    {
+      "figure": "1.2",
+      "file": "book37/page-026-image-01.jpg",
+      "pdf_page": 26,
+      "width": 471,
+      "height": 181,
+      "sha256": "e9cccd0f4a872e1723a5e34245fdba4bbc80030cdd7d2a52c2f4070d9601aeb3"
+    },
+    {
+      "figure": "1.3",
+      "file": "book37/page-044-image-01.jpg",
+      "pdf_page": 44,
+      "width": 442,
+      "height": 382,
+      "sha256": "45c4d11c39778fd7dbb09cb2968ac648c4c2cea53d008f9a58c14be18c225556"
+    },
+    {
+      "figure": "2.1",
+      "file": "book37/page-053-image-01.jpg",
+      "pdf_page": 53,
+      "width": 230,
+      "height": 381,
+      "sha256": "42a08d06f91962a19031d3f81ca828388ff4d2a44ad03b5db229c62eee93a8f4"
+    },
+    {
+      "figure": "2.2",
+      "file": "book37/page-071-image-01.png",
+      "pdf_page": 71,
+      "width": 491,
+      "height": 286,
+      "sha256": "321f9f60c7804ee5f1d3f5a0b91b837dee6c19cccf49140ad4bd793aed17a9be"
+    },
+    {
+      "figure": "2.3",
+      "file": "book37/page-081-image-01.jpg",
+      "pdf_page": 81,
+      "width": 1023,
+      "height": 357,
+      "sha256": "5be40457bf2c24a09f641ccd071e037788eb419b70e62f9dab93b06fc6a724b4"
+    },
+    {
+      "figure": "3.1",
+      "file": "book37/page-104-image-01.jpg",
+      "pdf_page": 104,
+      "width": 473,
+      "height": 316,
+      "sha256": "93fd81ea6f1e42fc169f09cfc86a2326159c4c122fe2eddfeff504551be32469"
+    },
+    {
+      "figure": "3.2",
+      "file": "book37/page-111-image-01.jpg",
+      "pdf_page": 111,
+      "width": 624,
+      "height": 1013,
+      "sha256": "085d3cb88067a9ddbd0691501da7b323d1233c37079eb09d4a00773376594005"
+    },
+    {
+      "figure": "3.3",
+      "file": "book37/page-120-image-01.jpg",
+      "pdf_page": 120,
+      "width": 549,
+      "height": 561,
+      "sha256": "e8f922d4db7e87072578b3fbe9ad34b3b6de61b9b0e7b8923fe396a3c1772b0a"
+    },
+    {
+      "figure": "4.1",
+      "file": "book37/page-141-image-01.jpg",
+      "pdf_page": 141,
+      "width": 362,
+      "height": 368,
+      "sha256": "33fb071650763d8a30de5538e283dfc9ee2f1329bb1ca641d7e9ff8d8ce97758"
+    },
+    {
+      "figure": "4.2",
+      "file": "book37/page-155-image-01.png",
+      "pdf_page": 155,
+      "width": 234,
+      "height": 389,
+      "sha256": "524eea6a84081eece8cadb21ad6933d675cbe7614f47d44ed1ad05a4aeddef29"
+    },
+    {
+      "figure": "4.3",
+      "file": "book37/page-158-image-01.jpg",
+      "pdf_page": 158,
+      "width": 500,
+      "height": 606,
+      "sha256": "ece5c64b3cd69e4f6fd1f58e77ba6aec9727f5103e5c926b1b2681ab13810575"
+    }
+  ]
+}

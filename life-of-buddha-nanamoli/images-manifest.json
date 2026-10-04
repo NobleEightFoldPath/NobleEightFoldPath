@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "book": "The Life of the Buddha",
+  "author": "Bhikkhu Ñāṇamoli",
+  "sourceFile": "The Life of the Buddha Bhikkhu Ñāṇamoli.docx",
+  "sourceSha256": "d06847a20113285c74202ab262b56e3929abf4798f9f503c5ecd1dfa09671741",
+  "mediaCount": 1,
+  "imagePlacementCount": 1,
+  "externalImages": [],
+  "imageBytesUnchanged": true,
+  "images": [
+    {
+      "id": "img-0001",
+      "file": "images/map-central-eastern-india.png",
+      "suggestedRepositoryPath": "life-of-buddha-nanamoli/images/map-central-eastern-india.png",
+      "originalMedia": "word/media/image1.png",
+      "format": "PNG",
+      "width": 1651,
+      "height": 1014,
+      "bytes": 30384,
+      "sha256": "dffbf7a445ec64823affbcf634e320bf000be28c61c437974ea9ee2f072e6926",
+      "placements": [
+        {
+          "media": "word/media/image1.png",
+          "part": "word/document.xml",
+          "paragraph": 145,
+          "relationshipId": "rId10",
+          "nearbyText": [
+            {
+              "paragraph": 146,
+              "text": "Plan of central and eastern India showing the principal place names mentioned in the Pali Tipiịaka with modern names in brackets, rivers in italics, and country names in capitals. (Sources: Cambridge Hiztory of India Vol I Map 5; Buddkizt India by Rhys Davids; Hiztory of Indian Buddkizm by Étienne Lamotte.)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

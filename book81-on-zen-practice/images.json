@@ -1,0 +1,1371 @@
+{
+  "book_number": 81,
+  "title": "On Zen Practice: Body, Breath, and Mind",
+  "source_inventory": "../../translations/on-zen-practice-book81/source-inventory.json",
+  "source_scan_count": 117,
+  "reviewed_scan_count": 117,
+  "substantive_figure_count": 11,
+  "supplementary_graphic_count": 7,
+  "total_extracted_assets": 18,
+  "substantive_figures_by_kind": {
+    "calligraphy": 5,
+    "illustration": 1,
+    "photograph": 5
+  },
+  "meditation_posture_review": {
+    "instructional_diagrams_found": 0,
+    "seated_portrait": "p000119-koun-yamada-seated-portrait.png",
+    "note": "No instructional meditation-posture diagrams occur in the 117 supplied scans; the Yamada photograph is a seated portrait."
+  },
+  "limitations": [
+    "Decorative calligraphy overlaps section/title text. The crop retains that original text; the underlying calligraphy was not reconstructed.",
+    "Scanned-image resolution is preserved; no additional detail is invented."
+  ],
+  "assets": [
+    {
+      "asset": "p000007-mu-taizan-maezumi.png",
+      "kind": "calligraphy",
+      "source_filename": "000007.png",
+      "source_page_number": 7,
+      "inventory_order": 4,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        484,
+        178,
+        1316,
+        1113
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        832,
+        935
+      ],
+      "caption": "“Mu,” by Taizan Maezumi",
+      "caption_mm": "တိုင်ဇန် မအဲဇုမိ၏ “Mu” လက်ရေးပန်းချီ",
+      "source_sha256": "1a02dd21f96cb21203c09a9874559e41c4ef0d276b9356adad1154a8b53dec7e",
+      "sha256": "15873fc8cbcc96ef54bfd0f18eeeddbc0afa791a56a2bb0287c56d66dac734a1",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000019-zen-koryu-osaka.png",
+      "kind": "calligraphy",
+      "source_filename": "000019.png",
+      "source_page_number": 19,
+      "inventory_order": 16,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        484,
+        178,
+        1316,
+        1116
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        832,
+        938
+      ],
+      "caption": "“Zen,” by Koryu Osaka",
+      "caption_mm": "ကိုရျူး အိုဆာကာ၏ “Zen” လက်ရေးပန်းချီ",
+      "source_sha256": "f02ed0633b3341a66b2461f9b19b015ce5d5ebc37c54529798bfb54ea4fa01e4",
+      "sha256": "d8d157cc9d96f7e3b6f957ef04474446a9614a2fa2eb1f4087e6d2d02be2bbbc",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000022-gotsu-taizan-maezumi.png",
+      "kind": "calligraphy",
+      "source_filename": "000022.png",
+      "source_page_number": 22,
+      "inventory_order": 19,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        484,
+        178,
+        1316,
+        1123
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        832,
+        945
+      ],
+      "caption": "“Gotsu,” by Taizan Maezumi. “Gotsu” is the shape of a rocky mountain as in the expression “gotsugotsu chi” (“sit as a big, rocky mountain, sit fixedly”) used by Eihei Dogen in the Fukanzazengi to describe zazen.",
+      "caption_mm": "တိုင်ဇန် မအဲဇုမိ၏ “Gotsu” — ကျောက်တောင်ကြီးကဲ့သို့ တည်ငြိမ်စွာထိုင်ခြင်းကို ရည်ညွှန်းသော လက်ရေးပန်းချီ",
+      "source_sha256": "56ffea27cf6ee4308d4499f69742040f503534afe22dc4f35a89fc1c531d95f2",
+      "sha256": "5fc79bc9f7b263a51562be602f75277aa86fe69d577382c037e60d8635a7c7dc",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000068-shikan-hakuun-yasutani.png",
+      "kind": "calligraphy",
+      "source_filename": "000068.png",
+      "source_page_number": 68,
+      "inventory_order": 65,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        484,
+        178,
+        1316,
+        1116
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        832,
+        938
+      ],
+      "caption": "“Shikan,” by Hakuun Yasutani (at age 81)",
+      "caption_mm": "အသက် ၈၁ နှစ်အရွယ် ဟာကွန်း ယာစုတာနိ၏ “Shikan” လက်ရေးပန်းချီ",
+      "source_sha256": "ba07f96725cab7004a9f7a6e5071752b737b0d87ccd307e20630135095910425",
+      "sha256": "11ad3a97670cc75e4cd2759f0889066d0666096ce474812b4cb28dae5c3097b0",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000082-hekikan-wall-gazing-taizan-maezumi.png",
+      "kind": "calligraphy",
+      "source_filename": "000082.png",
+      "source_page_number": 82,
+      "inventory_order": 79,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        494,
+        112,
+        1217,
+        1482
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        723,
+        1370
+      ],
+      "caption": "“Hekikan, Wall Gazing,” by Taizan Maezumi",
+      "caption_mm": "တိုင်ဇန် မအဲဇုမိ၏ “Hekikan၊ နံရံရှုခြင်း” လက်ရေးပန်းချီ",
+      "source_sha256": "f8537ff460a731651d7eb5ca2fc18dd407573b82ddea9bc2b823a99adddd79b0",
+      "sha256": "6a9c5834b2f1c197ca46bc6bbb8d39735db2fa91f3df62ab16ff4abf9d17e70f",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000118-eihei-dogen-portrait.png",
+      "kind": "illustration",
+      "source_filename": "000118.png",
+      "source_page_number": 118,
+      "inventory_order": 115,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        593,
+        468,
+        1207,
+        1359
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        614,
+        891
+      ],
+      "caption": "Eihei Dogen — portrait illustration in About the Authors",
+      "caption_mm": "အဲအိဟေး ဒိုးဂဲန်၏ ပုံတူသရုပ်ဖော်ပုံ",
+      "source_sha256": "8ea6731a1b616c3c6344239cc429ab5cb75f2be4139464dfd335877bd63f840e",
+      "sha256": "0831d3d8178899d6c79ec8deed48f041b0f8249d453416993348bd7173b984a3",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000118-bernie-glassman-portrait.png",
+      "kind": "photograph",
+      "source_filename": "000118.png",
+      "source_page_number": 118,
+      "inventory_order": 115,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        742,
+        1845,
+        1058,
+        2251
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        316,
+        406
+      ],
+      "caption": "Bernie Glassman Roshi — author portrait",
+      "caption_mm": "ဘာနီ ဂလက်စ်မန် ရိုရှီ၏ ဓာတ်ပုံ",
+      "source_sha256": "8ea6731a1b616c3c6344239cc429ab5cb75f2be4139464dfd335877bd63f840e",
+      "sha256": "145dc73a60dbf829b22d17e4f1a198e203e512ffc4ed3823a5935ff9d944349c",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000119-taizan-maezumi-portrait.png",
+      "kind": "photograph",
+      "source_filename": "000119.png",
+      "source_page_number": 119,
+      "inventory_order": 116,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        741,
+        98,
+        1060,
+        505
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        319,
+        407
+      ],
+      "caption": "Taizan Maezumi Roshi — author portrait",
+      "caption_mm": "တိုင်ဇန် မအဲဇုမိ ရိုရှီ၏ ဓာတ်ပုံ",
+      "source_sha256": "dd160842a1a7dbc625e895fa2c85e28d4716ab324cc47e0ef08e9095fa0d30db",
+      "sha256": "4b5e03f0d117cd176fc93dbc787094ed7d35c9a92f1b62a0a77cd7f7c3a22d52",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000119-koryu-osaka-portrait.png",
+      "kind": "photograph",
+      "source_filename": "000119.png",
+      "source_page_number": 119,
+      "inventory_order": 116,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        736,
+        1085,
+        1065,
+        1492
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        329,
+        407
+      ],
+      "caption": "Koryu Osaka Roshi — author portrait",
+      "caption_mm": "ကိုရျူး အိုဆာကာ ရိုရှီ၏ ဓာတ်ပုံ",
+      "source_sha256": "dd160842a1a7dbc625e895fa2c85e28d4716ab324cc47e0ef08e9095fa0d30db",
+      "sha256": "b605ba5e8f447ddbc5d866c5540af23c4cb0a72c00246edeb9cf52c8f5e6c500",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000119-koun-yamada-seated-portrait.png",
+      "kind": "photograph",
+      "source_filename": "000119.png",
+      "source_page_number": 119,
+      "inventory_order": 116,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        737,
+        1830,
+        1063,
+        2227
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        326,
+        397
+      ],
+      "caption": "Ko’un Yamada Roshi — seated author portrait; not an instructional posture diagram",
+      "caption_mm": "ကိုအွန် ယမဒါ ရိုရှီ၏ ထိုင်နေသောဓာတ်ပုံ။ ထိုင်ပုံသင်ကြားသည့် သရုပ်ဖော်ပုံ မဟုတ်ပါ။",
+      "source_sha256": "dd160842a1a7dbc625e895fa2c85e28d4716ab324cc47e0ef08e9095fa0d30db",
+      "sha256": "2b8ac18022196278c0f00049279c6c593ff34af73adc2fc966a46d585f6f3647",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000120-hakuun-yasutani-portrait.png",
+      "kind": "photograph",
+      "source_filename": "000120.png",
+      "source_page_number": 120,
+      "inventory_order": 117,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        739,
+        98,
+        1061,
+        472
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        322,
+        374
+      ],
+      "caption": "Hakuun Yasutani Roshi — author portrait",
+      "caption_mm": "ဟာကွန်း ယာစုတာနိ ရိုရှီ၏ ဓာတ်ပုံ",
+      "source_sha256": "d3d4a4cde2a7d3f7f995fe817cfe5fd1d40a365c50558fe19060c79309c36ca2",
+      "sha256": "3073a6f156d124a934d7e2a171d1991284bd214b6277789e98f7e94a96b2448c",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000002-on-zen-practice-title-design.png",
+      "kind": "decoration",
+      "source_filename": "000002.png",
+      "source_page_number": 2,
+      "inventory_order": 1,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        422,
+        314,
+        1413,
+        1405
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        991,
+        1091
+      ],
+      "caption": "Original title design and full subtitle: On Zen Practice — Body, Breath, & Mind; overlapping calligraphy retained",
+      "caption_mm": "မူရင်းခေါင်းစဉ်နှင့် ကိုယ်၊ အသက်ရှူ၊ စိတ်ဟူသော ခေါင်းစဉ်ခွဲအပြည့်။ စာသားနှင့်ထပ်နေသော လက်ရေးပန်းချီကို မူရင်းအတိုင်း ထိန်းထားသည်။",
+      "source_sha256": "7898804be417fbb038376340afcac054897fe01e708e60696f69f83e2d521ea7",
+      "sha256": "6e2494fb58db96e3ed67c15903efe5d0bc86b49f424c08bb797a8dd46902361d",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000002-wisdom-publications-logo.png",
+      "kind": "publisher_logo",
+      "source_filename": "000002.png",
+      "source_page_number": 2,
+      "inventory_order": 1,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        936,
+        1890,
+        1066,
+        2025
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        130,
+        135
+      ],
+      "caption": "Wisdom Publications publisher logo",
+      "caption_mm": "Wisdom Publications ထုတ်ဝေသူ၏ အမှတ်တံဆိပ်",
+      "source_sha256": "7898804be417fbb038376340afcac054897fe01e708e60696f69f83e2d521ea7",
+      "sha256": "fb7f1e02b126ed6822ce3989399fbdadcc32414fd8df586c97ca6981af5791ef",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000013-introduction-section-decoration.png",
+      "kind": "decoration",
+      "source_filename": "000013.png",
+      "source_page_number": 13,
+      "inventory_order": 10,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        825,
+        212,
+        1528,
+        796
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        703,
+        584
+      ],
+      "caption": "I. Introduction — original heading and background calligraphy",
+      "caption_mm": "နိဒါန်းအပိုင်း၏ မူရင်းခေါင်းစဉ်နှင့် နောက်ခံလက်ရေးပန်းချီ",
+      "source_sha256": "b18d62a25603751eb13f945ebeacc94de71cf5165f8e40efab1d5ae4fb00801d",
+      "sha256": "7605a1c755d9d1eecdd271f81a0ee504ae4b32137a7c0ea2b21e8f4d332f99c9",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000018-on-form-section-decoration.png",
+      "kind": "decoration",
+      "source_filename": "000018.png",
+      "source_page_number": 18,
+      "inventory_order": 15,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        962,
+        212,
+        1527,
+        796
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        565,
+        584
+      ],
+      "caption": "II. On Form — original heading and background calligraphy",
+      "caption_mm": "ပုံစံအကြောင်း အပိုင်း၏ မူရင်းခေါင်းစဉ်နှင့် နောက်ခံလက်ရေးပန်းချီ",
+      "source_sha256": "e0ebd2c2466ee65ccf920fbee22d3b741e9a4d2a9e400c96125a7ec3cb2021b4",
+      "sha256": "528a4aacfccc38a619bc1b4009197d3a1a70a6fde83b0842c746969ab9cb4c16",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000058-shikantaza-koans-section-decoration.png",
+      "kind": "decoration",
+      "source_filename": "000058.png",
+      "source_page_number": 58,
+      "inventory_order": 55,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        752,
+        212,
+        1527,
+        796
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        775,
+        584
+      ],
+      "caption": "III. On Shikantaza and Koans — original heading and background calligraphy",
+      "caption_mm": "ရှီကန်တာဇာနှင့် ကိုအန်အပိုင်း၏ မူရင်းခေါင်းစဉ်နှင့် နောက်ခံလက်ရေးပန်းချီ",
+      "source_sha256": "6b308f7ff97ddca2601ebdb49467ac45089f309f3daada235cd959d4527edd47",
+      "sha256": "e7d1785a1d6fe09700e24ea4f6002a9e84628eed8c32a8eccf4109887ee002f0",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000090-everyday-life-section-decoration.png",
+      "kind": "decoration",
+      "source_filename": "000090.png",
+      "source_page_number": 90,
+      "inventory_order": 87,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        867,
+        212,
+        1528,
+        796
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        661,
+        584
+      ],
+      "caption": "IV. On the Way of Everyday Life — original heading and background calligraphy",
+      "caption_mm": "နေ့စဉ်ဘဝလမ်းစဉ်အပိုင်း၏ မူရင်းခေါင်းစဉ်နှင့် နောက်ခံလက်ရေးပန်းချီ",
+      "source_sha256": "ef4bf9b19c42a0e604cc0444869ba1af5079dba5cae517bd2a08025ca80676fe",
+      "sha256": "c15289c8d09c78ff81f99fcaa716110e2ed3e1d8c58c67dc23f856a8932ed24a",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    },
+    {
+      "asset": "p000109-appendices-section-decoration.png",
+      "kind": "decoration",
+      "source_filename": "000109.png",
+      "source_page_number": 109,
+      "inventory_order": 106,
+      "source_dimensions_px": [
+        1800,
+        2880
+      ],
+      "crop_bounds_px": [
+        965,
+        212,
+        1528,
+        796
+      ],
+      "crop_coordinate_convention": "Pillow (left, top, right, bottom); right and bottom exclusive",
+      "dimensions_px": [
+        563,
+        584
+      ],
+      "caption": "V. Appendices — original heading and background calligraphy",
+      "caption_mm": "နောက်ဆက်တွဲအပိုင်း၏ မူရင်းခေါင်းစဉ်နှင့် နောက်ခံလက်ရေးပန်းချီ",
+      "source_sha256": "a0522336373eff7e0ad8fc94e759687eb6e1f96340d2fc95bbd767623a8f8809",
+      "sha256": "347c47c77e96cc4f6ca21f967b0b2e0d50caf52bd26dc5d97e631112b49c7e92",
+      "processing": "Original pixel crop only; no resize, rotation, enhancement, masking, or generated replacement"
+    }
+  ],
+  "page_review": [
+    {
+      "inventory_order": 1,
+      "source_filename": "000002.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000002-on-zen-practice-title-design.png",
+        "p000002-wisdom-publications-logo.png"
+      ]
+    },
+    {
+      "inventory_order": 2,
+      "source_filename": "000004.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 3,
+      "source_filename": "000005.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 4,
+      "source_filename": "000007.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000007-mu-taizan-maezumi.png"
+      ]
+    },
+    {
+      "inventory_order": 5,
+      "source_filename": "000008.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 6,
+      "source_filename": "000009.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 7,
+      "source_filename": "000010.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 8,
+      "source_filename": "000011.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 9,
+      "source_filename": "000012.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 10,
+      "source_filename": "000013.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000013-introduction-section-decoration.png"
+      ]
+    },
+    {
+      "inventory_order": 11,
+      "source_filename": "000014.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 12,
+      "source_filename": "000015.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 13,
+      "source_filename": "000016.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 14,
+      "source_filename": "000017.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 15,
+      "source_filename": "000018.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000018-on-form-section-decoration.png"
+      ]
+    },
+    {
+      "inventory_order": 16,
+      "source_filename": "000019.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000019-zen-koryu-osaka.png"
+      ]
+    },
+    {
+      "inventory_order": 17,
+      "source_filename": "000020.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 18,
+      "source_filename": "000021.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 19,
+      "source_filename": "000022.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000022-gotsu-taizan-maezumi.png"
+      ]
+    },
+    {
+      "inventory_order": 20,
+      "source_filename": "000023.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 21,
+      "source_filename": "000024.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 22,
+      "source_filename": "000025.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 23,
+      "source_filename": "000026.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 24,
+      "source_filename": "000027.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 25,
+      "source_filename": "000028.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 26,
+      "source_filename": "000029.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 27,
+      "source_filename": "000030.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 28,
+      "source_filename": "000031.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 29,
+      "source_filename": "000032.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 30,
+      "source_filename": "000033.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 31,
+      "source_filename": "000034.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 32,
+      "source_filename": "000035.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 33,
+      "source_filename": "000036.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 34,
+      "source_filename": "000037.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 35,
+      "source_filename": "000038.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 36,
+      "source_filename": "000039.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 37,
+      "source_filename": "000040.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 38,
+      "source_filename": "000041.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 39,
+      "source_filename": "000042.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 40,
+      "source_filename": "000043.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 41,
+      "source_filename": "000044.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 42,
+      "source_filename": "000045.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 43,
+      "source_filename": "000046.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 44,
+      "source_filename": "000047.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 45,
+      "source_filename": "000048.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 46,
+      "source_filename": "000049.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 47,
+      "source_filename": "000050.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 48,
+      "source_filename": "000051.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 49,
+      "source_filename": "000052.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 50,
+      "source_filename": "000053.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 51,
+      "source_filename": "000054.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 52,
+      "source_filename": "000055.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 53,
+      "source_filename": "000056.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 54,
+      "source_filename": "000057.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 55,
+      "source_filename": "000058.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000058-shikantaza-koans-section-decoration.png"
+      ]
+    },
+    {
+      "inventory_order": 56,
+      "source_filename": "000059.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 57,
+      "source_filename": "000060.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 58,
+      "source_filename": "000061.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 59,
+      "source_filename": "000062.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 60,
+      "source_filename": "000063.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 61,
+      "source_filename": "000064.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 62,
+      "source_filename": "000065.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 63,
+      "source_filename": "000066.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 64,
+      "source_filename": "000067.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 65,
+      "source_filename": "000068.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000068-shikan-hakuun-yasutani.png"
+      ]
+    },
+    {
+      "inventory_order": 66,
+      "source_filename": "000069.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 67,
+      "source_filename": "000070.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 68,
+      "source_filename": "000071.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 69,
+      "source_filename": "000072.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 70,
+      "source_filename": "000073.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 71,
+      "source_filename": "000074.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 72,
+      "source_filename": "000075.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 73,
+      "source_filename": "000076.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 74,
+      "source_filename": "000077.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 75,
+      "source_filename": "000078.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 76,
+      "source_filename": "000079.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 77,
+      "source_filename": "000080.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 78,
+      "source_filename": "000081.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 79,
+      "source_filename": "000082.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000082-hekikan-wall-gazing-taizan-maezumi.png"
+      ]
+    },
+    {
+      "inventory_order": 80,
+      "source_filename": "000083.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 81,
+      "source_filename": "000084.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 82,
+      "source_filename": "000085.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 83,
+      "source_filename": "000086.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 84,
+      "source_filename": "000087.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 85,
+      "source_filename": "000088.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 86,
+      "source_filename": "000089.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 87,
+      "source_filename": "000090.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000090-everyday-life-section-decoration.png"
+      ]
+    },
+    {
+      "inventory_order": 88,
+      "source_filename": "000091.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 89,
+      "source_filename": "000092.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 90,
+      "source_filename": "000093.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 91,
+      "source_filename": "000094.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 92,
+      "source_filename": "000095.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 93,
+      "source_filename": "000096.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 94,
+      "source_filename": "000097.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 95,
+      "source_filename": "000098.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 96,
+      "source_filename": "000099.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 97,
+      "source_filename": "000100.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 98,
+      "source_filename": "000101.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 99,
+      "source_filename": "000102.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 100,
+      "source_filename": "000103.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 101,
+      "source_filename": "000104.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 102,
+      "source_filename": "000105.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 103,
+      "source_filename": "000106.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 104,
+      "source_filename": "000107.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 105,
+      "source_filename": "000108.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 106,
+      "source_filename": "000109.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000109-appendices-section-decoration.png"
+      ]
+    },
+    {
+      "inventory_order": 107,
+      "source_filename": "000110.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 108,
+      "source_filename": "000111.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 109,
+      "source_filename": "000112.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 110,
+      "source_filename": "000113.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 111,
+      "source_filename": "000114.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 112,
+      "source_filename": "000115.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 113,
+      "source_filename": "000116.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 114,
+      "source_filename": "000117.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": []
+    },
+    {
+      "inventory_order": 115,
+      "source_filename": "000118.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000118-eihei-dogen-portrait.png",
+        "p000118-bernie-glassman-portrait.png"
+      ]
+    },
+    {
+      "inventory_order": 116,
+      "source_filename": "000119.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000119-taizan-maezumi-portrait.png",
+        "p000119-koryu-osaka-portrait.png",
+        "p000119-koun-yamada-seated-portrait.png"
+      ]
+    },
+    {
+      "inventory_order": 117,
+      "source_filename": "000120.png",
+      "visually_reviewed": true,
+      "method": "Full-page contact-sheet inspection; figure-bearing pages also inspected individually",
+      "assets": [
+        "p000120-hakuun-yasutani-portrait.png"
+      ]
+    }
+  ],
+  "excluded_typography": "Ordinary text, drop caps, page-layout rules and paragraph-divider ornaments are typography rather than substantive illustrations.",
+  "preview": {
+    "file": "gallery.jpg",
+    "sha256": "9206bfbfd86533fdf6c283e4ff90ea80d7ab805d998a714393b0a8f0d566b7d0",
+    "purpose": "Preview contact sheet; original-resolution assets are the 18 PNG files."
+  }
+}

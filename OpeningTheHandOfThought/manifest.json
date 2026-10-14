@@ -1,0 +1,211 @@
+{
+  "book": 80,
+  "count": 14,
+  "images": [
+    {
+      "figure": 1,
+      "file": "figure-01.png",
+      "source": "000035.png",
+      "box": [
+        447,
+        94,
+        1370,
+        1140
+      ],
+      "caption": "The inferior self",
+      "sha256": "9355285ea90dba9ade379f4dc3f8cb7c1d277c1de4041ef7706d356352e831fd"
+    },
+    {
+      "figure": 2,
+      "file": "figure-02.png",
+      "source": "000035.png",
+      "box": [
+        447,
+        1140,
+        1370,
+        2208
+      ],
+      "caption": "The competitive self",
+      "sha256": "68529362e1e080def98f1274e7554f5d7e3c5eded902baa1656b62bcbded8917"
+    },
+    {
+      "figure": 3,
+      "file": "figure-03.png",
+      "source": "000036.png",
+      "box": [
+        447,
+        94,
+        1370,
+        1147
+      ],
+      "caption": "The superior self",
+      "sha256": "565bd32ab7b6863dd0097b1692c7250b23a2273bc56e00334558a15b55a2a535"
+    },
+    {
+      "figure": 4,
+      "file": "figure-04.png",
+      "source": "000046.png",
+      "box": [
+        584,
+        1566,
+        1219,
+        2475
+      ],
+      "caption": "Full-lotus posture",
+      "sha256": "d31b336a81d4cd9cb02aa3faf66e05b89311d070443cb644e9251b2664a70ed1"
+    },
+    {
+      "figure": 5,
+      "file": "figure-05.png",
+      "source": "000047.png",
+      "box": [
+        577,
+        72,
+        1219,
+        981
+      ],
+      "caption": "Half-lotus posture",
+      "sha256": "6f7dd16d90312c8b98847731695c3db01a908560e8cf7ed7a0fdab3e1f58e5bb"
+    },
+    {
+      "figure": 6,
+      "file": "figure-06.png",
+      "source": "000047.png",
+      "box": [
+        555,
+        996,
+        1212,
+        1926
+      ],
+      "caption": "Burmese posture",
+      "sha256": "c5de274e6e518590f3d726baf6cf3b7d37fd1321ab038ab7a17f4a853abf64bb"
+    },
+    {
+      "figure": 7,
+      "file": "figure-07.png",
+      "source": "000048.png",
+      "box": [
+        606,
+        65,
+        1197,
+        1270
+      ],
+      "caption": "Kneeling posture",
+      "sha256": "750c33936f2da7a6e047923156d779c68f3d3755908810251ee3575641b03717"
+    },
+    {
+      "figure": 8,
+      "file": "figure-08.png",
+      "source": "000048.png",
+      "box": [
+        606,
+        1270,
+        1197,
+        2467
+      ],
+      "caption": "Chair posture",
+      "sha256": "144e6d587ed421f4c5dde0139e56f12184e88a0ace6b6eaa2af98dbe03119413"
+    },
+    {
+      "figure": 9,
+      "file": "figure-09.png",
+      "source": "000049.png",
+      "box": [
+        375,
+        72,
+        1428,
+        606
+      ],
+      "caption": "Cosmic mudra",
+      "sha256": "878b7de1e7d0e779104119e73982addd5bd948121a81f512fff01b3f8dbfac77"
+    },
+    {
+      "figure": 10,
+      "file": "figure-10.png",
+      "source": "000050.png",
+      "box": [
+        180,
+        72,
+        1615,
+        1219
+      ],
+      "caption": "The Thinker caught up in delusion, and the Sitter letting thought go",
+      "sha256": "3a6c11aaab59aaf1801479f2d05f2003a5a79da1aa8bca5c3c625c9c0109bd11"
+    },
+    {
+      "figure": 11,
+      "file": "figure-11.png",
+      "source": "000055.png",
+      "box": [
+        231,
+        72,
+        1565,
+        1270
+      ],
+      "caption": "The mind in zazen",
+      "sha256": "ffaf2c9b915d931b51c6123a2eadf4b327bd1ad10fc3157b8ffb4229d17e28cc"
+    },
+    {
+      "figure": 12,
+      "file": "figure-12.png",
+      "source": "000069.png",
+      "box": [
+        296,
+        296,
+        1500,
+        887
+      ],
+      "caption": "Belligerent squashes",
+      "sha256": "b95d17599609445663be67db708a4571efa24d67e87c2c3910e8d2488977a1a3"
+    },
+    {
+      "figure": 13,
+      "file": "figure-13.png",
+      "source": "000069.png",
+      "box": [
+        296,
+        895,
+        1500,
+        1421
+      ],
+      "caption": "Squash zazen",
+      "sha256": "e291b1d6fceb70a1d5d776b428a079b88965ad358debbe72494b396e6ebff4bd"
+    },
+    {
+      "figure": 14,
+      "file": "figure-14.png",
+      "source": "000069.png",
+      "box": [
+        180,
+        1436,
+        1615,
+        2128
+      ],
+      "caption": "Squashes living out the reality of life",
+      "sha256": "ea956372a57a8e0d8098a85fdc65adc942267d7cfd761deb95d5a5ef172d80d9"
+    }
+  ],
+  "excludedDecorationPages": [
+    2,
+    6,
+    7,
+    9,
+    12,
+    15,
+    21,
+    32,
+    45,
+    59,
+    67,
+    75,
+    86,
+    103,
+    123,
+    124,
+    126,
+    138
+  ],
+  "coverNotExtracted": true,
+  "all142PagesVisuallyScreened": true,
+  "githubUploaded": false
+}

@@ -1,0 +1,19 @@
+{
+  "book": 83,
+  "source": "mmh_tmp/83-Realizing Genjokoan/000195.png",
+  "sourceSha256": "46ac5ee4d413f92cb174e6d54d537be274a76edf82426a67fc7d5bc4a5f4965b",
+  "filename": "p000195-shohaku-okumura-author-portrait.png",
+  "cropBoundsPx": [
+    728,
+    295,
+    1065,
+    798
+  ],
+  "dimensionsPx": [
+    337,
+    503
+  ],
+  "sha256": "8b7479c5f111610a91b54c2239e5514c0ff81f462a7e3135ded8f05d29a6a675",
+  "method": "Original pixel crop only; no resize, enhancement or reconstruction",
+  "githubPublished": false
+}

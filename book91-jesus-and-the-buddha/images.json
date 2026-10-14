@@ -1,0 +1,110 @@
+{
+  "book": 91,
+  "folder": "book91-jesus-and-the-buddha",
+  "originalPhotographs": 9,
+  "openingQuotationImage": 1,
+  "images": [
+    {
+      "filename": "opening-quotations.png",
+      "sourcePath": "docs/translations/jesus-buddha-book91/source/images/page-002-image-01.png",
+      "pdfPage": 2,
+      "orderOnPage": 1,
+      "width": 1253,
+      "height": 1813,
+      "byteLength": 320960,
+      "sha256": "ce5deda50f75ddfa5ab36d15b82033319f2f9c3d1cddeb237376f88c03c1d2e2"
+    },
+    {
+      "filename": "figure-01.jpg",
+      "sourcePath": "docs/translations/jesus-buddha-book91/source/images/page-022-image-01.jpg",
+      "pdfPage": 22,
+      "orderOnPage": 1,
+      "width": 616,
+      "height": 460,
+      "byteLength": 51849,
+      "sha256": "14523e2cab4a0bd07a7d345cc622a032c8a2ed44f03405157d769169d0e51193"
+    },
+    {
+      "filename": "figure-02.jpg",
+      "sourcePath": "docs/translations/jesus-buddha-book91/source/images/page-022-image-02.jpg",
+      "pdfPage": 22,
+      "orderOnPage": 2,
+      "width": 586,
+      "height": 462,
+      "byteLength": 84298,
+      "sha256": "fbd0ff91d64e09920d782dd3705a26b177c6c9cfe4baaa7db13e7f244355c340"
+    },
+    {
+      "filename": "figure-03.jpg",
+      "sourcePath": "docs/translations/jesus-buddha-book91/source/images/page-022-image-03.jpg",
+      "pdfPage": 22,
+      "orderOnPage": 3,
+      "width": 619,
+      "height": 898,
+      "byteLength": 47590,
+      "sha256": "83f0e92e01a6d167a2932b3744ef528f0680ae53760e5531698a1d7095a717cc"
+    },
+    {
+      "filename": "figure-04.jpg",
+      "sourcePath": "docs/translations/jesus-buddha-book91/source/images/page-023-image-01.jpg",
+      "pdfPage": 23,
+      "orderOnPage": 1,
+      "width": 600,
+      "height": 689,
+      "byteLength": 91515,
+      "sha256": "1db97022b146a07f59ed7c21051db3012b88df102a9b8c2c9e1ee6c28b944263"
+    },
+    {
+      "filename": "figure-05.jpg",
+      "sourcePath": "docs/translations/jesus-buddha-book91/source/images/page-023-image-02.jpg",
+      "pdfPage": 23,
+      "orderOnPage": 2,
+      "width": 640,
+      "height": 768,
+      "byteLength": 96233,
+      "sha256": "161734ca125d102edcd1b6763da9b69a5e846338e915718fe2a85145bb3f2de6"
+    },
+    {
+      "filename": "figure-06.jpg",
+      "sourcePath": "docs/translations/jesus-buddha-book91/source/images/page-023-image-03.jpg",
+      "pdfPage": 23,
+      "orderOnPage": 3,
+      "width": 459,
+      "height": 579,
+      "byteLength": 47995,
+      "sha256": "cccfdeacfa81212e315fd92b1c1819e0e5f609655150567119340b0f7360cd98"
+    },
+    {
+      "filename": "figure-07.jpg",
+      "sourcePath": "docs/translations/jesus-buddha-book91/source/images/page-024-image-01.jpg",
+      "pdfPage": 24,
+      "orderOnPage": 1,
+      "width": 581,
+      "height": 768,
+      "byteLength": 92745,
+      "sha256": "14ce243584b917f47357e40e3d7d8e00a16d766e0a62e3929a2f6d5ec41002c4"
+    },
+    {
+      "filename": "figure-08.jpg",
+      "sourcePath": "docs/translations/jesus-buddha-book91/source/images/page-024-image-02.jpg",
+      "pdfPage": 24,
+      "orderOnPage": 2,
+      "width": 732,
+      "height": 904,
+      "byteLength": 94806,
+      "sha256": "ba2c9390b3480daeba9329168584787686dbe05ff8c3f920721dba0ad7dc65b9"
+    },
+    {
+      "filename": "figure-09.jpg",
+      "sourcePath": "docs/translations/jesus-buddha-book91/source/images/page-024-image-03.jpg",
+      "pdfPage": 24,
+      "orderOnPage": 3,
+      "width": 690,
+      "height": 510,
+      "byteLength": 101231,
+      "sha256": "3b91feafd007e20d3361b772cf1b8d9c1386705a1c3d27000316c07854565634"
+    }
+  ],
+  "githubUploaded": false,
+  "originalBytesPreserved": true
+}

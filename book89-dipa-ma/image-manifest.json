@@ -1,0 +1,166 @@
+{
+  "book": 89,
+  "title": "Dipa Ma: The Life and Legacy of a Buddhist Master",
+  "sourcePdf": "mmh_tmp/89-Dipa Ma/Dipa Ma - The Life and Legacy of A Buddhist Master.pdf",
+  "sourceSha256": "fc3e0ed23eb1235bb47820dd20bbf661a2c5abde8c857a6bb50e271d68072a6c",
+  "imageCount": 17,
+  "photographCount": 15,
+  "coverCount": 1,
+  "publisherLogoCount": 1,
+  "originalBytesPreserved": true,
+  "images": [
+    {
+      "filename": "page-0001-01.jpg",
+      "pdfPage": 1,
+      "width": 750,
+      "height": 1158,
+      "bytes": 270555,
+      "sha256": "8df6d6b663f5b28d45df269a903ceb9278ef4fdc589b8b16880ebdb34ffa6e9b",
+      "kind": "cover"
+    },
+    {
+      "filename": "page-0003-01.jpg",
+      "pdfPage": 3,
+      "width": 750,
+      "height": 134,
+      "bytes": 23853,
+      "sha256": "c9266606a935aa2a33ca9b7ea5d42b4e2636181eab2777d74990b2a4679f7a9a",
+      "kind": "publisher-logo"
+    },
+    {
+      "filename": "page-0012-01.jpg",
+      "pdfPage": 12,
+      "width": 667,
+      "height": 614,
+      "bytes": 132374,
+      "sha256": "453e488b9367c7579d0e52f7366d9f7cbb15f1bb55ac4312fe1a674061d2fdb9",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0019-01.jpg",
+      "pdfPage": 19,
+      "width": 675,
+      "height": 894,
+      "bytes": 175166,
+      "sha256": "ac480d1e7829fca37c6fa8d6c9cf6cacd32a3d3c2d9852366d0e8a75890362fa",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0027-01.jpg",
+      "pdfPage": 27,
+      "width": 731,
+      "height": 589,
+      "bytes": 140063,
+      "sha256": "cd99612e7c5d551e32fabd826e19c7d235d828791dc4df71ecd58cdffeb97f6c",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0032-01.jpg",
+      "pdfPage": 32,
+      "width": 951,
+      "height": 734,
+      "bytes": 306704,
+      "sha256": "8b408324820d84c4d3db15270c640a171a358795fe85bef8e4e4ddd4a4417cbe",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0039-01.jpg",
+      "pdfPage": 39,
+      "width": 675,
+      "height": 940,
+      "bytes": 227221,
+      "sha256": "c7f57433341b982a2ac43c7ff522eff158e768c64588b0fe08b2f1dee62fb05a",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0067-01.jpg",
+      "pdfPage": 67,
+      "width": 750,
+      "height": 879,
+      "bytes": 134717,
+      "sha256": "5d43ce27b61f039f3181e00cc5cbbaecb1db3c659d6b021c7048d0a2cb99a4d1",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0081-01.jpg",
+      "pdfPage": 81,
+      "width": 675,
+      "height": 942,
+      "bytes": 180046,
+      "sha256": "3aae3e279affe2feaf197986dc22ab8fcd1eba9f7adf3c21b48250d5b0d5a453",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0091-01.jpg",
+      "pdfPage": 91,
+      "width": 227,
+      "height": 149,
+      "bytes": 12795,
+      "sha256": "f9a5346fe3c375eb5a096e5acd3eeb5715c9ce91e9aee72523d2a8045fb63ffe",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0097-01.jpg",
+      "pdfPage": 97,
+      "width": 750,
+      "height": 988,
+      "bytes": 253614,
+      "sha256": "9b39fcdcea0f6b6deaa0ba947c6bf6c21f8b2ec6365f679c70d7f3be010f68a9",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0116-01.jpg",
+      "pdfPage": 116,
+      "width": 750,
+      "height": 1133,
+      "bytes": 188664,
+      "sha256": "b3bee5a63b62a8b1105aa07a9594c8a1b1e963ede3b75f9f81553082fa532886",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0126-01.jpg",
+      "pdfPage": 126,
+      "width": 750,
+      "height": 1091,
+      "bytes": 292152,
+      "sha256": "dcb832b1030621b1e637f07627fddd7dc81b54b5c506ebaa58a4de4df9bad045",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0145-01.jpg",
+      "pdfPage": 145,
+      "width": 223,
+      "height": 149,
+      "bytes": 11550,
+      "sha256": "92a412c69fb7323b4688a40a9d19c4b9e97245795638f7fdbff0a71dab64080e",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0150-01.jpg",
+      "pdfPage": 150,
+      "width": 671,
+      "height": 861,
+      "bytes": 195330,
+      "sha256": "d82ab1100862b2bf77ceef94dab5d77f6ecb22dff53b16402819622e5ed00b60",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0159-01.jpg",
+      "pdfPage": 159,
+      "width": 663,
+      "height": 966,
+      "bytes": 172603,
+      "sha256": "3e8a149b0a2d2679373c9b3957a4d4bcef4c488f4ea10ea321dd87671f44a51f",
+      "kind": "photograph"
+    },
+    {
+      "filename": "page-0170-01.jpg",
+      "pdfPage": 170,
+      "width": 679,
+      "height": 1052,
+      "bytes": 240733,
+      "sha256": "2f50c1154ab1883d9b65833ca2cacf814b5550f5dd100b311ce6bb50f53cde5f",
+      "kind": "photograph"
+    }
+  ]
+}

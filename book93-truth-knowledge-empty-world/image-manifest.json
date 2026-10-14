@@ -1,0 +1,16 @@
+{
+  "book": 93,
+  "filename": "figure-01.png",
+  "source": "mmh_tmp/93-Truth and Knowledge in Empty/000008.png",
+  "crop": [
+    200,
+    100,
+    1600,
+    954
+  ],
+  "sourceSha256": "f7ad57f581c7d79bf2ecdc734d1611b0f76e62c751337944742c7f40f5903244",
+  "sha256": "a286a97cad26cc8e8cfb6003f6c5211760564a31b6271ece42dcde51222fdff0",
+  "type": "workshop-group-photograph",
+  "caption": "Madison,Wisconsin,May18\u201321,2023",
+  "githubLinkPending": true
+}

@@ -1,0 +1,23 @@
+{
+  "book": 85,
+  "source": "mmh_tmp/85-Science and Philo 2/000254.png",
+  "sourceSha256": "98979eccf2616c3d2259bce27e01f35b28df1ec94ddcc218ebef7ba0baa02dd6",
+  "filename": "p000254-shamatha-elephant-path.png",
+  "cropBoundsPx": [
+    323,
+    99,
+    1478,
+    1938
+  ],
+  "dimensionsPx": [
+    1155,
+    1839
+  ],
+  "sha256": "4724c3e0e91889a43be9ce735a43f6883e74c4e293302a3a0b83e1bb960f497c",
+  "method": "Original pixels cropped; no resize/enhancement/reconstruction",
+  "section": 35,
+  "chapter": 24,
+  "sourceOrder": 253,
+  "storage": "bundled",
+  "githubRequired": false
+}

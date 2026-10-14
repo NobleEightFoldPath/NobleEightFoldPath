@@ -1,0 +1,265 @@
+{
+  "book": 82,
+  "source": "User-supplied scans",
+  "images": [
+    {
+      "order": 1,
+      "file": "figure-01.png",
+      "source": "000025.png",
+      "sourcePage": 25,
+      "nativeCropBox": [
+        447,
+        1010,
+        1327,
+        1515
+      ],
+      "width": 880,
+      "height": 505,
+      "caption": "ပဒုမ္မာသနအပြည့် ခြေချိတ်ထိုင်ပုံ",
+      "sha256": "5d490a2e26305eb265a9bab07fac9fd4f464d6f9040de085a127e52ba5414e59",
+      "byteLength": 150161,
+      "kind": "instruction"
+    },
+    {
+      "order": 2,
+      "file": "figure-02.png",
+      "source": "000026.png",
+      "sourcePage": 26,
+      "nativeCropBox": [
+        404,
+        2222,
+        1370,
+        2698
+      ],
+      "width": 966,
+      "height": 476,
+      "caption": "မြန်မာနည်း ခြေထောက်ထားပုံ",
+      "sha256": "9cd13b73143510c825885179101478b7de7ca3e9384c0f58f1035d8d9e771843",
+      "byteLength": 106680,
+      "kind": "instruction"
+    },
+    {
+      "order": 3,
+      "file": "figure-03.png",
+      "source": "000027.png",
+      "sourcePage": 27,
+      "nativeCropBox": [
+        635,
+        1255,
+        1168,
+        2128
+      ],
+      "width": 533,
+      "height": 873,
+      "caption": "ဆေးဇာ ဒူးထောက်ထိုင်ပုံ",
+      "sha256": "b4df5a24a441c0d82e5a89a0a2924968eaad0299089e4d11f3eaa9082b7a4a2c",
+      "byteLength": 103968,
+      "kind": "instruction"
+    },
+    {
+      "order": 4,
+      "file": "figure-04.png",
+      "source": "000028.png",
+      "sourcePage": 28,
+      "nativeCropBox": [
+        613,
+        1703,
+        1147,
+        2583
+      ],
+      "width": 534,
+      "height": 880,
+      "caption": "ကုလားထိုင်ပေါ် ထိုင်ပုံ",
+      "sha256": "2837c044be5c19bad75133a18635e0a023a16b98b78995b41f7869d58e74d922",
+      "byteLength": 140604,
+      "kind": "instruction"
+    },
+    {
+      "order": 5,
+      "file": "figure-05.png",
+      "source": "000032.png",
+      "sourcePage": 32,
+      "nativeCropBox": [
+        483,
+        1933,
+        1305,
+        2280
+      ],
+      "width": 822,
+      "height": 347,
+      "caption": "ကော့စမစ် မုဒြာ လက်ထားပုံ",
+      "sha256": "ee1a22d4a8902f641310efc913ce5d75ec9a4612cc51ada669119c3c24fd14a3",
+      "byteLength": 82506,
+      "kind": "instruction"
+    },
+    {
+      "order": 6,
+      "file": "figure-06.png",
+      "source": "000034.png",
+      "sourcePage": 34,
+      "nativeCropBox": [
+        440,
+        101,
+        1356,
+        1219
+      ],
+      "width": 916,
+      "height": 1118,
+      "caption": "ဇာဇင်၏ ကိုယ်နေဟန် အပြည့်အစုံ",
+      "sha256": "d1fa027f9f484ff6342dfd88778811b55f47f46a319ade841097fca76bfee111",
+      "byteLength": 282731,
+      "kind": "instruction"
+    },
+    {
+      "order": 7,
+      "file": "figure-07.png",
+      "source": "000067.png",
+      "sourcePage": 67,
+      "nativeCropBox": [
+        195,
+        87,
+        1572,
+        794
+      ],
+      "width": 1377,
+      "height": 707,
+      "caption": "လိပ်ပြာ လေ့ကျင့်ခန်း၏ အဆင့်နှစ်ခု",
+      "sha256": "f71b2d4d12b136a018d8fcfa751e7bc927249973d98606ba8a84d0a7b6587172",
+      "byteLength": 233240,
+      "kind": "instruction"
+    },
+    {
+      "order": 8,
+      "file": "figure-08.png",
+      "source": "000067.png",
+      "sourcePage": 67,
+      "nativeCropBox": [
+        288,
+        1746,
+        1500,
+        2294
+      ],
+      "width": 1212,
+      "height": 548,
+      "caption": "ခေါင်းကို ဒူးဆီ ညွှတ်ခြင်း",
+      "sha256": "78a9a6a1b7463a6c2afe5ee145bcbc3b177019c5b2bf12d29585f1fa9bac4e74",
+      "byteLength": 199811,
+      "kind": "instruction"
+    },
+    {
+      "order": 9,
+      "file": "figure-09.png",
+      "source": "000068.png",
+      "sourcePage": 68,
+      "nativeCropBox": [
+        195,
+        916,
+        1594,
+        1421
+      ],
+      "width": 1399,
+      "height": 505,
+      "caption": "ခြေထောက်များကို ဖြန့်၍ ဆန့်ခြင်း",
+      "sha256": "8524e4d3910ea60acdc0d2c69e0199d13131c717077c2d0a73483c17e9bcd85e",
+      "byteLength": 192092,
+      "kind": "instruction"
+    },
+    {
+      "order": 10,
+      "file": "figure-10.png",
+      "source": "000069.png",
+      "sourcePage": 69,
+      "nativeCropBox": [
+        317,
+        101,
+        1486,
+        1248
+      ],
+      "width": 1169,
+      "height": 1147,
+      "caption": "ကိုယ်လုံးကို လှည့်ခြင်း",
+      "sha256": "407526cd264de9c6b39984d02c90199d6224142ae1122a259c4770d5d2b24245",
+      "byteLength": 196613,
+      "kind": "instruction"
+    },
+    {
+      "order": 11,
+      "file": "figure-11.png",
+      "source": "000069.png",
+      "sourcePage": 69,
+      "nativeCropBox": [
+        476,
+        1731,
+        1298,
+        2222
+      ],
+      "width": 822,
+      "height": 491,
+      "caption": "ခြေထောက်ဆန့်ခြင်း — ပထမနည်း",
+      "sha256": "f22a2d7bf7bc72b758ef1395c25fe99129cde4d6618cbada6dfd75f16940005e",
+      "byteLength": 139306,
+      "kind": "instruction"
+    },
+    {
+      "order": 12,
+      "file": "figure-12.png",
+      "source": "000070.png",
+      "sourcePage": 70,
+      "nativeCropBox": [
+        339,
+        469,
+        1471,
+        1400
+      ],
+      "width": 1132,
+      "height": 931,
+      "caption": "ခြေထောက်ဆန့်ခြင်း — ဒုတိယနည်း",
+      "sha256": "2f6341aae4b892ec62ed1d641cec388f6605fb8df3a46cd20ce8549c66bf8c80",
+      "byteLength": 224708,
+      "kind": "instruction"
+    },
+    {
+      "order": 13,
+      "file": "figure-13.png",
+      "source": "000074.png",
+      "sourcePage": 74,
+      "nativeCropBox": [
+        721,
+        534,
+        1082,
+        931
+      ],
+      "width": 361,
+      "height": 397,
+      "caption": "ဂျွန် ဒိုင်ရှင် ဘုခ်စ်ဘေဇန် — ဓာတ်ပုံ Steve Earth Holder Barker",
+      "sha256": "afc6ffc52b1dc7b69ac101a3cbef3c5288951fcda803533291228a548b43e840",
+      "byteLength": 63276,
+      "kind": "portrait"
+    },
+    {
+      "file": "ornament-part-divider.png",
+      "source": "000011.png",
+      "nativeCropBox": [
+        635,
+        635,
+        1154,
+        895
+      ],
+      "sha256": "3ed978887e13ca9ac26fb6edd6133584d85fb6668b176acd4b3c2f799a960913",
+      "kind": "decoration"
+    },
+    {
+      "file": "publisher-logo.png",
+      "source": "000004.png",
+      "nativeCropBox": [
+        837,
+        1681,
+        966,
+        1811
+      ],
+      "sha256": "2e7e2d04cff2954740bae719d159c72c71a30d4727d9447e7810c4a46bf73caf",
+      "kind": "decoration"
+    }
+  ],
+  "hostingConfigured": false
+}

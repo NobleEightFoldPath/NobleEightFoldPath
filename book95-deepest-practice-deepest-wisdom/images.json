@@ -1,0 +1,140 @@
+{
+  "book": 95,
+  "folder": "book95-deepest-practice-deepest-wisdom",
+  "illustrations": 4,
+  "contributorPhotographs": 3,
+  "imageCount": 7,
+  "extractionMethod": "Lossless rectangular crops from supplied page PNGs; no rescaling or retouching",
+  "illustrationCredit": "Michael Hofmann, as credited in supplied copyright page",
+  "githubUploaded": false,
+  "githubUrlsVerified": false,
+  "sourceCompletenessVerified": false,
+  "images": [
+    {
+      "filename": "figure-01.png",
+      "label": "Part I illustration",
+      "sourceFile": "mmh_tmp/95-Deepest Practice Deepest Wisdom/000012.png",
+      "sourceSha256": "32c111d376a3a5ec116d0086190ff85326a1cd8119c04dd5cb2b60649a8b340a",
+      "sourceImageNumber": 12,
+      "cropBox": [
+        280,
+        325,
+        1520,
+        2050
+      ],
+      "width": 1240,
+      "height": 1725,
+      "sha256": "e3eaa019e0c84c889209aad7a22ea88b482b0d2febcf23f6683e83008ea530b2",
+      "losslessSourcePixels": true,
+      "githubRawUrl": "https://raw.githubusercontent.com/NobleEightFoldPath/NobleEightFoldPath/main/book95-deepest-practice-deepest-wisdom/figure-01.png"
+    },
+    {
+      "filename": "figure-02.png",
+      "label": "Part II illustration",
+      "sourceFile": "mmh_tmp/95-Deepest Practice Deepest Wisdom/000045.png",
+      "sourceSha256": "51dfaad9988ae73f29335c3b5d4661957e00856fb0a1858e68111aab4b0a6737",
+      "sourceImageNumber": 45,
+      "cropBox": [
+        300,
+        325,
+        1510,
+        2070
+      ],
+      "width": 1210,
+      "height": 1745,
+      "sha256": "506d3f0c55f32087a96900442e30089c5dab2e9ab04c22222dac9e140fe71f04",
+      "losslessSourcePixels": true,
+      "githubRawUrl": "https://raw.githubusercontent.com/NobleEightFoldPath/NobleEightFoldPath/main/book95-deepest-practice-deepest-wisdom/figure-02.png"
+    },
+    {
+      "filename": "figure-03.png",
+      "label": "Part III illustration",
+      "sourceFile": "mmh_tmp/95-Deepest Practice Deepest Wisdom/000109.png",
+      "sourceSha256": "bc0b01548d1e89b35acd00ca6fcabd7accf24b746c5e820f8dccc7c82081f552",
+      "sourceImageNumber": 109,
+      "cropBox": [
+        260,
+        325,
+        1550,
+        1950
+      ],
+      "width": 1290,
+      "height": 1625,
+      "sha256": "3e3c14f19da57687b92f2a849bbc4f7b0ca39a6fcb00c50877c2e88cbd596fd4",
+      "losslessSourcePixels": true,
+      "githubRawUrl": "https://raw.githubusercontent.com/NobleEightFoldPath/NobleEightFoldPath/main/book95-deepest-practice-deepest-wisdom/figure-03.png"
+    },
+    {
+      "filename": "figure-04.png",
+      "label": "Part IV illustration",
+      "sourceFile": "mmh_tmp/95-Deepest Practice Deepest Wisdom/000150.png",
+      "sourceSha256": "b417094096d32a4ada305b822e2dff4ba74737e05df90218579fd6d6cad30aa1",
+      "sourceImageNumber": 150,
+      "cropBox": [
+        280,
+        325,
+        1550,
+        1980
+      ],
+      "width": 1270,
+      "height": 1655,
+      "sha256": "9d2727eb6d73abd58e34305b2925773d056e0a28545dbafa7ce7a6e377755da7",
+      "losslessSourcePixels": true,
+      "githubRawUrl": "https://raw.githubusercontent.com/NobleEightFoldPath/NobleEightFoldPath/main/book95-deepest-practice-deepest-wisdom/figure-04.png"
+    },
+    {
+      "filename": "author-kosho-uchiyama.png",
+      "label": "Kōshō Uchiyama",
+      "sourceFile": "mmh_tmp/95-Deepest Practice Deepest Wisdom/000186.png",
+      "sourceSha256": "007f34b47666eab7231ddde3c209ceb877f20e5c800819b4705120183ab5ba1c",
+      "sourceImageNumber": 186,
+      "cropBox": [
+        713,
+        382,
+        1088,
+        620
+      ],
+      "width": 375,
+      "height": 238,
+      "sha256": "acd26e3672a321d02fd2f8317f09b41ca9a865f1ca6b80c1457b54532009083c",
+      "losslessSourcePixels": true,
+      "githubRawUrl": "https://raw.githubusercontent.com/NobleEightFoldPath/NobleEightFoldPath/main/book95-deepest-practice-deepest-wisdom/author-kosho-uchiyama.png"
+    },
+    {
+      "filename": "translator-daitsu-tom-wright.png",
+      "label": "Daitsū Tom Wright",
+      "sourceFile": "mmh_tmp/95-Deepest Practice Deepest Wisdom/000186.png",
+      "sourceSha256": "007f34b47666eab7231ddde3c209ceb877f20e5c800819b4705120183ab5ba1c",
+      "sourceImageNumber": 186,
+      "cropBox": [
+        731,
+        1466,
+        1069,
+        1814
+      ],
+      "width": 338,
+      "height": 348,
+      "sha256": "9a3c568bd10c5e2512dd7d5de35469e14a8d3137dad96355bc9fd59c17cfc13d",
+      "losslessSourcePixels": true,
+      "githubRawUrl": "https://raw.githubusercontent.com/NobleEightFoldPath/NobleEightFoldPath/main/book95-deepest-practice-deepest-wisdom/translator-daitsu-tom-wright.png"
+    },
+    {
+      "filename": "translator-shohaku-okumura.png",
+      "label": "Shōhaku Okumura",
+      "sourceFile": "mmh_tmp/95-Deepest Practice Deepest Wisdom/000187.png",
+      "sourceSha256": "afe7247d88f7910e6ea2d3696a08e5823e6a49abfe37d15ba5f155cd50fd988a",
+      "sourceImageNumber": 187,
+      "cropBox": [
+        735,
+        100,
+        1065,
+        565
+      ],
+      "width": 330,
+      "height": 465,
+      "sha256": "e8bbfbffdb0bd199f7894513af313040a9e6baabed640036d5e43d6867775b78",
+      "losslessSourcePixels": true,
+      "githubRawUrl": "https://raw.githubusercontent.com/NobleEightFoldPath/NobleEightFoldPath/main/book95-deepest-practice-deepest-wisdom/translator-shohaku-okumura.png"
+    }
+  ]
+}

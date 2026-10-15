@@ -1,0 +1,16 @@
+{
+  "book": 97,
+  "filename": "figure-01.png",
+  "source": "mmh_tmp/97-The Art of Disappearing/000112.png",
+  "crop": [
+    641,
+    377,
+    1160,
+    792
+  ],
+  "sourceSha256": "ae9a023221df3e77970160f6be13d9dabf8f5e11cf8f53a3ad495bbd2741f2da",
+  "sha256": "70364d12803b936ea562e45e27d19b78ac036aaaef290be9616bff26490b4f92",
+  "byteLength": 175724,
+  "type": "author-portrait",
+  "githubLinkPending": true
+}
